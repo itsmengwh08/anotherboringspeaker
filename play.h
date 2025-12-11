@@ -76,12 +76,12 @@ void loop() {
 
     
     if (reading1 == LOW && lastButtonState1 == HIGH) {
-      playMusic("/divenha.mp3");
+      playMusic("./divenha.mp3");
     }
 
     
     if (reading2 == LOW && lastButtonState2 == HIGH) {
-      playMusic("/baikatuoitre.mp3");
+      playMusic("./baikatuoitre.mp3");
     }
 
    
