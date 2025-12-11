@@ -5,4 +5,7 @@
 - Push buttons
 - MAX98357A audio codec
 # What it's supposed to do?
-This will play ["Đi về nhà" by Đen Vâu x JustaTee](https://www.youtube.com/watch?v=vTJdVE_gjI0) (button 1) and ["Bài ka tuổi trẻ" by Tam ka PKL](https://www.youtube.com/watch?v=ghUh0NPHXy8&t=52) (button 2).
+This will play ["Đi về nhà" by Đen Vâu x JustaTee](https://www.youtube.com/watch?v=vTJdVE_gjI0) (button 1) and ["Bài ka tuổi trẻ" by Tam Ka PKL](https://www.youtube.com/watch?v=ghUh0NPHXy8&t=52) (button 2).
+# Required libaries
+- SD
+- ESP32Audio (ESP8266Audio is recommended!)
